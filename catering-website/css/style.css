@@ -39,3 +39,7 @@ h2 {
     padding: 10px;
     color:white;
 }
+
+.Menu_Container h3:hover {
+    background-color: rgba(24, 194, 98, 0.5);
+}
