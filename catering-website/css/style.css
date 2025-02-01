@@ -1,0 +1,41 @@
+ body {
+    background-image: url('../images/outdoor_event.jpg');
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+} 
+
+h1, h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    color:white;
+    font-size: 60px;
+    text-align: center;
+}
+
+h2 {
+    color:white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.Header_Container {
+    padding: 20px;
+    background-color: rgba(63, 139, 160, 0.5);
+}
+
+.Menu_Container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+
+.Menu_Container h3 {
+    margin: 0;
+    padding: 10px;
+    color:white;
+}
