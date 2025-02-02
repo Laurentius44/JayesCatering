@@ -5,6 +5,7 @@
     background-repeat: no-repeat;
 } 
 
+/* Moving Title and Subtitle closer together*/
 h1, h2 {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -34,12 +35,9 @@ h2 {
     text-align: center;
 }
 
-.Menu_Container h3 {
+.Menu_Container h3:hover {
     margin: 0;
     padding: 10px;
     color:white;
-}
-
-.Menu_Container h3:hover {
     background-color: rgba(24, 194, 98, 0.5);
 }
